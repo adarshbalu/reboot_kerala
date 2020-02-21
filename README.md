@@ -1,4 +1,4 @@
-# reboot_kerala
+
 # PLACEMENT PORTAL
 Rebbot kerala Public repository for education theme of group "Ctrl-S" 
 
@@ -39,3 +39,12 @@ Rebbot kerala Public repository for education theme of group "Ctrl-S"
 #### Contains the personal details(Name, Date of Birth, Email-id, Contact number)
 #### Academic details(Stream, Present semester, Semester wise cgpa)
 #### Badges obtained from additional courses.
+
+
+
+
+
+
+
+
+# #rebootkerala #letsreboot
