@@ -45,8 +45,15 @@ Reboot Kerala Public repository for education theme of group "Ctrl-S"
 ### StudentsSignup Page
 ![alt text](https://github.com/adarshbalu/reboot_kerala/blob/master/documentation/studentsignup.PNG "StudentSignup Page")
 
-### Company Page
+### CompanySignup Page
 ![alt text](https://github.com/adarshbalu/reboot_kerala/blob/master/documentation/companysignup.PNG "CompanySignup Page")
+
+### Company Job creation
+![alt text](https://github.com/adarshbalu/reboot_kerala/blob/master/documentation/companypage.PNG "Company Job Creation Page")
+
+### Student Dashboard
+![alt text](https://github.com/adarshbalu/reboot_kerala/blob/master/documentation/dashboard.PNG "Dashboard")
+
 
 ### Basic Modules
 ***
