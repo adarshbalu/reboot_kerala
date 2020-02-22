@@ -24,6 +24,7 @@ Reboot Kerala Public repository for education theme of group "Ctrl-S"
 #### 2. Student module
 #### 3. Company module
 #### 4. College module
+#### 5. Classifier module
 
 ## Account module
 ### The main objective of this module is for authentication.
@@ -44,8 +45,14 @@ Reboot Kerala Public repository for education theme of group "Ctrl-S"
 
 ## Company module
 ### Contains company details like name of the company, authorized email_id, contact details.
-#### Contains the jobs posted by the company.
+#### Contains the jobs posted by the company. 
+#### Details of all the recommended students.
+
 
 ## College module
 ### It contains name of the college, contact_details, authorized email_id, sector.
 #### Contact details of a point of contact (placement co-ordinator).
+#### Contains registered list of all the students.
+
+## Classifier module
+### Clustering the students based on specifations and mapping them based on their skill sets and scores.
