@@ -2,6 +2,19 @@
 # PLACEMENT PORTAL
 Reboot Kerala Public repository for education theme of group "Ctrl-S" 
 
+
+
+![alt text](https://github.com/adarshbalu/reboot_kerala/blob/master/documentation/homePage1.PNG "Home Page")
+
+
+
+
+
+
+
+
+
+
 ## Implement a system having student placement portal which contains student's semester wise academic grades and the badges they acquired during their courses. Companies assess the students and provide internship and placement opportunities.
 
 ### Existing System
