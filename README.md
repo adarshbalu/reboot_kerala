@@ -31,6 +31,15 @@ Reboot Kerala Public repository for education theme of group "Ctrl-S"
 ##### Companies can list the skill sets they are looking for, assessment criteria they follow, provide internship and placement opportunities.
 ##### Companies can select single or multiple colleges for evaluation at a time.
 
+
+## Individual Sections
+![alt text](https://github.com/adarshbalu/reboot_kerala/blob/master/documentation/login.PNG "Login Page")
+
+![alt text](https://github.com/adarshbalu/reboot_kerala/blob/master/documentation/signup.PNG "Signup Page")
+
+
+
+
 ### Basic Modules
 ***
 #### 1.Account module
