@@ -2,7 +2,7 @@
 # PLACEMENT PORTAL
 Rebbot kerala Public repository for education theme of group "Ctrl-S" 
 
-## Implement a system having student placement portal which student's semester wise academic grades and badges they acquired during their courses. Companies assess the students and provide intership and placement opportunities.
+## Implement a system having student placement portal which contains student's semester wise academic grades and badges they acquired during their courses. Companies assess the students and provide intership and placement opportunities.
 
 ### Existing System
 ***
@@ -38,4 +38,13 @@ Rebbot kerala Public repository for education theme of group "Ctrl-S"
 ## Student module
 #### Contains the personal details(Name, Date of Birth, Email-id, Contact number)
 #### Academic details(Stream, Present semester, Semester wise cgpa)
+##### It contains profile picture of the student, name of the college. 
 #### Badges obtained from additional courses.
+#### Students can upload their resume and course_certificate.
+
+## Company module
+### Contains company details like name of the company, authorized email_id, contact details.
+#### Contains the jobs posted by the company.
+
+## College module
+### It contains name of the college, contact_details, authorized email_id, sector.
