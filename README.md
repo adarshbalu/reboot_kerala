@@ -1,4 +1,4 @@
-# reboot_kerala
+
 # PLACEMENT PORTAL
 Reboot Kerala Public repository for education theme of group "Ctrl-S" 
 
@@ -56,3 +56,13 @@ Reboot Kerala Public repository for education theme of group "Ctrl-S"
 
 ## Classifier module
 ### Clustering the students based on specifations and mapping them based on their skill sets and scores.
+
+
+
+
+
+
+
+
+# #rebootkerala #letsreboot
+
